@@ -1,4 +1,4 @@
-Grading at Sun Jun 30 10:26:04 UTC 2019
+Grading at Sun Jun 30 10:47:54 UTC 2019
 Attempting to compile retirement.c
 Checking for struct _retire_info
 Found on line 6, column 1 
@@ -11,1757 +11,269 @@ Found on line 9, column 3
 Checking for typedef of struct _retire_info to retire_info
 Found on line 12, column 1 
 Checking for void retirement (int startAge, double initial,  retire_info working,  retire_info retired)
-Found on line 19, column 1 
+Found on line 27, column 1 
 Checking for int main(void)
-Found on line 39, column 1 
+Found on line 49, column 1 
 Trying to run retirement calculator..
-Line_1_did_not_match
-Line_2_did_not_match
-Line_3_did_not_match
-Line_4_did_not_match
-Line_5_did_not_match
-Line_6_did_not_match
-Line_7_did_not_match
-Line_8_did_not_match
-Line_9_did_not_match
-Line_10_did_not_match
-Line_11_did_not_match
-Line_12_did_not_match
-Line_13_did_not_match
-Line_14_did_not_match
-Line_15_did_not_match
-Line_16_did_not_match
-Line_17_did_not_match
-Line_18_did_not_match
-Line_19_did_not_match
-Line_20_did_not_match
-Line_21_did_not_match
-Line_22_did_not_match
-Line_23_did_not_match
-Line_24_did_not_match
-Line_25_did_not_match
-Line_26_did_not_match
-Line_27_did_not_match
-Line_28_did_not_match
-Line_29_did_not_match
-Line_30_did_not_match
-Line_31_did_not_match
-Line_32_did_not_match
-Line_33_did_not_match
-Line_34_did_not_match
-Line_35_did_not_match
-Line_36_did_not_match
-Line_37_did_not_match
-Line_38_did_not_match
-Line_39_did_not_match
-Line_40_did_not_match
-Line_41_did_not_match
-Line_42_did_not_match
-Line_43_did_not_match
-Line_44_did_not_match
-Line_45_did_not_match
-Line_46_did_not_match
-Line_47_did_not_match
-Line_48_did_not_match
-Line_49_did_not_match
-Line_50_did_not_match
-Line_51_did_not_match
-Line_52_did_not_match
-Line_53_did_not_match
-Line_54_did_not_match
-Line_55_did_not_match
-Line_56_did_not_match
-Line_57_did_not_match
-Line_58_did_not_match
-Line_59_did_not_match
-Line_60_did_not_match
-Line_61_did_not_match
-Line_62_did_not_match
-Line_63_did_not_match
-Line_64_did_not_match
-Line_65_did_not_match
-Line_66_did_not_match
-Line_67_did_not_match
-Line_68_did_not_match
-Line_69_did_not_match
-Line_70_did_not_match
-Line_71_did_not_match
-Line_72_did_not_match
-Line_73_did_not_match
-Line_74_did_not_match
-Line_75_did_not_match
-Line_76_did_not_match
-Line_77_did_not_match
-Line_78_did_not_match
-Line_79_did_not_match
-Line_80_did_not_match
-Line_81_did_not_match
-Line_82_did_not_match
-Line_83_did_not_match
-Line_84_did_not_match
-Line_85_did_not_match
-Line_86_did_not_match
-Line_87_did_not_match
-Line_88_did_not_match
-Line_89_did_not_match
-Line_90_did_not_match
-Line_91_did_not_match
-Line_92_did_not_match
-Line_93_did_not_match
-Line_94_did_not_match
-Line_95_did_not_match
-Line_96_did_not_match
-Line_97_did_not_match
-Line_98_did_not_match
-Line_99_did_not_match
-Line_100_did_not_match
-Line_101_did_not_match
-Line_102_did_not_match
-Line_103_did_not_match
-Line_104_did_not_match
-Line_105_did_not_match
-Line_106_did_not_match
-Line_107_did_not_match
-Line_108_did_not_match
-Line_109_did_not_match
-Line_110_did_not_match
-Line_111_did_not_match
-Line_112_did_not_match
-Line_113_did_not_match
-Line_114_did_not_match
-Line_115_did_not_match
-Line_116_did_not_match
-Line_117_did_not_match
-Line_118_did_not_match
-Line_119_did_not_match
-Line_120_did_not_match
-Line_121_did_not_match
-Line_122_did_not_match
-Line_123_did_not_match
-Line_124_did_not_match
-Line_125_did_not_match
-Line_126_did_not_match
-Line_127_did_not_match
-Line_128_did_not_match
-Line_129_did_not_match
-Line_130_did_not_match
-Line_131_did_not_match
-Line_132_did_not_match
-Line_133_did_not_match
-Line_134_did_not_match
-Line_135_did_not_match
-Line_136_did_not_match
-Line_137_did_not_match
-Line_138_did_not_match
-Line_139_did_not_match
-Line_140_did_not_match
-Line_141_did_not_match
-Line_142_did_not_match
-Line_143_did_not_match
-Line_144_did_not_match
-Line_145_did_not_match
-Line_146_did_not_match
-Line_147_did_not_match
-Line_148_did_not_match
-Line_149_did_not_match
-Line_150_did_not_match
-Line_151_did_not_match
-Line_152_did_not_match
-Line_153_did_not_match
-Line_154_did_not_match
-Line_155_did_not_match
-Line_156_did_not_match
-Line_157_did_not_match
-Line_158_did_not_match
-Line_159_did_not_match
-Line_160_did_not_match
-Line_161_did_not_match
-Line_162_did_not_match
-Line_163_did_not_match
-Line_164_did_not_match
-Line_165_did_not_match
-Line_166_did_not_match
-Line_167_did_not_match
-Line_168_did_not_match
-Line_169_did_not_match
-Line_170_did_not_match
-Line_171_did_not_match
-Line_172_did_not_match
-Line_173_did_not_match
-Line_174_did_not_match
-Line_175_did_not_match
-Line_176_did_not_match
-Line_177_did_not_match
-Line_178_did_not_match
-Line_179_did_not_match
-Line_180_did_not_match
-Line_181_did_not_match
-Line_182_did_not_match
-Line_183_did_not_match
-Line_184_did_not_match
-Line_185_did_not_match
-Line_186_did_not_match
-Line_187_did_not_match
-Line_188_did_not_match
-Line_189_did_not_match
-Line_190_did_not_match
-Line_191_did_not_match
-Line_192_did_not_match
-Line_193_did_not_match
-Line_194_did_not_match
-Line_195_did_not_match
-Line_196_did_not_match
-Line_197_did_not_match
-Line_198_did_not_match
-Line_199_did_not_match
-Line_200_did_not_match
-Line_201_did_not_match
-Line_202_did_not_match
-Line_203_did_not_match
-Line_204_did_not_match
-Line_205_did_not_match
-Line_206_did_not_match
-Line_207_did_not_match
-Line_208_did_not_match
-Line_209_did_not_match
-Line_210_did_not_match
-Line_211_did_not_match
-Line_212_did_not_match
-Line_213_did_not_match
-Line_214_did_not_match
-Line_215_did_not_match
-Line_216_did_not_match
-Line_217_did_not_match
-Line_218_did_not_match
-Line_219_did_not_match
-Line_220_did_not_match
-Line_221_did_not_match
-Line_222_did_not_match
-Line_223_did_not_match
-Line_224_did_not_match
-Line_225_did_not_match
-Line_226_did_not_match
-Line_227_did_not_match
-Line_228_did_not_match
-Line_229_did_not_match
-Line_230_did_not_match
-Line_231_did_not_match
-Line_232_did_not_match
-Line_233_did_not_match
-Line_234_did_not_match
-Line_235_did_not_match
-Line_236_did_not_match
-Line_237_did_not_match
-Line_238_did_not_match
-Line_239_did_not_match
-Line_240_did_not_match
-Line_241_did_not_match
-Line_242_did_not_match
-Line_243_did_not_match
-Line_244_did_not_match
-Line_245_did_not_match
-Line_246_did_not_match
-Line_247_did_not_match
-Line_248_did_not_match
-Line_249_did_not_match
-Line_250_did_not_match
-Line_251_did_not_match
-Line_252_did_not_match
-Line_253_did_not_match
-Line_254_did_not_match
-Line_255_did_not_match
-Line_256_did_not_match
-Line_257_did_not_match
-Line_258_did_not_match
-Line_259_did_not_match
-Line_260_did_not_match
-Line_261_did_not_match
-Line_262_did_not_match
-Line_263_did_not_match
-Line_264_did_not_match
-Line_265_did_not_match
-Line_266_did_not_match
-Line_267_did_not_match
-Line_268_did_not_match
-Line_269_did_not_match
-Line_270_did_not_match
-Line_271_did_not_match
-Line_272_did_not_match
-Line_273_did_not_match
-Line_274_did_not_match
-Line_275_did_not_match
-Line_276_did_not_match
-Line_277_did_not_match
-Line_278_did_not_match
-Line_279_did_not_match
-Line_280_did_not_match
-Line_281_did_not_match
-Line_282_did_not_match
-Line_283_did_not_match
-Line_284_did_not_match
-Line_285_did_not_match
-Line_286_did_not_match
-Line_287_did_not_match
-Line_288_did_not_match
-Line_289_did_not_match
-Line_290_did_not_match
-Line_291_did_not_match
-Line_292_did_not_match
-Line_293_did_not_match
-Line_294_did_not_match
-Line_295_did_not_match
-Line_296_did_not_match
-Line_297_did_not_match
-Line_298_did_not_match
-Line_299_did_not_match
-Line_300_did_not_match
-Line_301_did_not_match
-Line_302_did_not_match
-Line_303_did_not_match
-Line_304_did_not_match
-Line_305_did_not_match
-Line_306_did_not_match
-Line_307_did_not_match
-Line_308_did_not_match
-Line_309_did_not_match
-Line_310_did_not_match
-Line_311_did_not_match
-Line_312_did_not_match
-Line_313_did_not_match
-Line_314_did_not_match
-Line_315_did_not_match
-Line_316_did_not_match
-Line_317_did_not_match
-Line_318_did_not_match
-Line_319_did_not_match
-Line_320_did_not_match
-Line_321_did_not_match
-Line_322_did_not_match
-Line_323_did_not_match
-Line_324_did_not_match
-Line_325_did_not_match
-Line_326_did_not_match
-Line_327_did_not_match
-Line_328_did_not_match
-Line_329_did_not_match
-Line_330_did_not_match
-Line_331_did_not_match
-Line_332_did_not_match
-Line_333_did_not_match
-Line_334_did_not_match
-Line_335_did_not_match
-Line_336_did_not_match
-Line_337_did_not_match
-Line_338_did_not_match
-Line_339_did_not_match
-Line_340_did_not_match
-Line_341_did_not_match
-Line_342_did_not_match
-Line_343_did_not_match
-Line_344_did_not_match
-Line_345_did_not_match
-Line_346_did_not_match
-Line_347_did_not_match
-Line_348_did_not_match
-Line_349_did_not_match
-Line_350_did_not_match
-Line_351_did_not_match
-Line_352_did_not_match
-Line_353_did_not_match
-Line_354_did_not_match
-Line_355_did_not_match
-Line_356_did_not_match
-Line_357_did_not_match
-Line_358_did_not_match
-Line_359_did_not_match
-Line_360_did_not_match
-Line_361_did_not_match
-Line_362_did_not_match
-Line_363_did_not_match
-Line_364_did_not_match
-Line_365_did_not_match
-Line_366_did_not_match
-Line_367_did_not_match
-Line_368_did_not_match
-Line_369_did_not_match
-Line_370_did_not_match
-Line_371_did_not_match
-Line_372_did_not_match
-Line_373_did_not_match
-Line_374_did_not_match
-Line_375_did_not_match
-Line_376_did_not_match
-Line_377_did_not_match
-Line_378_did_not_match
-Line_379_did_not_match
-Line_380_did_not_match
-Line_381_did_not_match
-Line_382_did_not_match
-Line_383_did_not_match
-Line_384_did_not_match
-Line_385_did_not_match
-Line_386_did_not_match
-Line_387_did_not_match
-Line_388_did_not_match
-Line_389_did_not_match
-Line_390_did_not_match
-Line_391_did_not_match
-Line_392_did_not_match
-Line_393_did_not_match
-Line_394_did_not_match
-Line_395_did_not_match
-Line_396_did_not_match
-Line_397_did_not_match
-Line_398_did_not_match
-Line_399_did_not_match
-Line_400_did_not_match
-Line_401_did_not_match
-Line_402_did_not_match
-Line_403_did_not_match
-Line_404_did_not_match
-Line_405_did_not_match
-Line_406_did_not_match
-Line_407_did_not_match
-Line_408_did_not_match
-Line_409_did_not_match
-Line_410_did_not_match
-Line_411_did_not_match
-Line_412_did_not_match
-Line_413_did_not_match
-Line_414_did_not_match
-Line_415_did_not_match
-Line_416_did_not_match
-Line_417_did_not_match
-Line_418_did_not_match
-Line_419_did_not_match
-Line_420_did_not_match
-Line_421_did_not_match
-Line_422_did_not_match
-Line_423_did_not_match
-Line_424_did_not_match
-Line_425_did_not_match
-Line_426_did_not_match
-Line_427_did_not_match
-Line_428_did_not_match
-Line_429_did_not_match
-Line_430_did_not_match
-Line_431_did_not_match
-Line_432_did_not_match
-Line_433_did_not_match
-Line_434_did_not_match
-Line_435_did_not_match
-Line_436_did_not_match
-Line_437_did_not_match
-Line_438_did_not_match
-Line_439_did_not_match
-Line_440_did_not_match
-Line_441_did_not_match
-Line_442_did_not_match
-Line_443_did_not_match
-Line_444_did_not_match
-Line_445_did_not_match
-Line_446_did_not_match
-Line_447_did_not_match
-Line_448_did_not_match
-Line_449_did_not_match
-Line_450_did_not_match
-Line_451_did_not_match
-Line_452_did_not_match
-Line_453_did_not_match
-Line_454_did_not_match
-Line_455_did_not_match
-Line_456_did_not_match
-Line_457_did_not_match
-Line_458_did_not_match
-Line_459_did_not_match
-Line_460_did_not_match
-Line_461_did_not_match
-Line_462_did_not_match
-Line_463_did_not_match
-Line_464_did_not_match
-Line_465_did_not_match
-Line_466_did_not_match
-Line_467_did_not_match
-Line_468_did_not_match
-Line_469_did_not_match
-Line_470_did_not_match
-Line_471_did_not_match
-Line_472_did_not_match
-Line_473_did_not_match
-Line_474_did_not_match
-Line_475_did_not_match
-Line_476_did_not_match
-Line_477_did_not_match
-Line_478_did_not_match
-Line_479_did_not_match
-Line_480_did_not_match
-Line_481_did_not_match
-Line_482_did_not_match
-Line_483_did_not_match
-Line_484_did_not_match
-Line_485_did_not_match
-Line_486_did_not_match
-Line_487_did_not_match
-Line_488_did_not_match
-Line_489_did_not_match
-Line_490_did_not_match
-Line_491_did_not_match
-Line_492_did_not_match
-Line_493_did_not_match
-Line_494_did_not_match
-Line_495_did_not_match
-Line_496_did_not_match
-Line_497_did_not_match
-Line_498_did_not_match
-Line_499_did_not_match
-Line_500_did_not_match
-Line_501_did_not_match
-Line_502_did_not_match
-Line_503_did_not_match
-Line_504_did_not_match
-Line_505_did_not_match
-Line_506_did_not_match
-Line_507_did_not_match
-Line_508_did_not_match
-Line_509_did_not_match
-Line_510_did_not_match
-Line_511_did_not_match
-Line_512_did_not_match
-Line_513_did_not_match
-Line_514_did_not_match
-Line_515_did_not_match
-Line_516_did_not_match
-Line_517_did_not_match
-Line_518_did_not_match
-Line_519_did_not_match
-Line_520_did_not_match
-Line_521_did_not_match
-Line_522_did_not_match
-Line_523_did_not_match
-Line_524_did_not_match
-Line_525_did_not_match
-Line_526_did_not_match
-Line_527_did_not_match
-Line_528_did_not_match
-Line_529_did_not_match
-Line_530_did_not_match
-Line_531_did_not_match
-Line_532_did_not_match
-Line_533_did_not_match
-Line_534_did_not_match
-Line_535_did_not_match
-Line_536_did_not_match
-Line_537_did_not_match
-Line_538_did_not_match
-Line_539_did_not_match
-Line_540_did_not_match
-Line_541_did_not_match
-Line_542_did_not_match
-Line_543_did_not_match
-Line_544_did_not_match
-Line_545_did_not_match
-Line_546_did_not_match
-Line_547_did_not_match
-Line_548_did_not_match
-Line_549_did_not_match
-Line_550_did_not_match
-Line_551_did_not_match
-Line_552_did_not_match
-Line_553_did_not_match
-Line_554_did_not_match
-Line_555_did_not_match
-Line_556_did_not_match
-Line_557_did_not_match
-Line_558_did_not_match
-Line_559_did_not_match
-Line_560_did_not_match
-Line_561_did_not_match
-Line_562_did_not_match
-Line_563_did_not_match
-Line_564_did_not_match
-Line_565_did_not_match
-Line_566_did_not_match
-Line_567_did_not_match
-Line_568_did_not_match
-Line_569_did_not_match
-Line_570_did_not_match
-Line_571_did_not_match
-Line_572_did_not_match
-Line_573_did_not_match
-Line_574_did_not_match
-Line_575_did_not_match
-Line_576_did_not_match
-Line_577_did_not_match
-Line_578_did_not_match
-Line_579_did_not_match
-Line_580_did_not_match
-Line_581_did_not_match
-Line_582_did_not_match
-Line_583_did_not_match
-Line_584_did_not_match
-Line_585_did_not_match
-Line_586_did_not_match
-Line_587_did_not_match
-Line_588_did_not_match
-Line_589_did_not_match
-Line_590_did_not_match
-Line_591_did_not_match
-Line_592_did_not_match
-Line_593_did_not_match
-Line_594_did_not_match
-Line_595_did_not_match
-Line_596_did_not_match
-Line_597_did_not_match
-Line_598_did_not_match
-Line_599_did_not_match
-Line_600_did_not_match
-Line_601_did_not_match
-Line_602_did_not_match
-Line_603_did_not_match
-Line_604_did_not_match
-Line_605_did_not_match
-Line_606_did_not_match
-Line_607_did_not_match
-Line_608_did_not_match
-Line_609_did_not_match
-Line_610_did_not_match
-Line_611_did_not_match
-Line_612_did_not_match
-Line_613_did_not_match
-Line_614_did_not_match
-Line_615_did_not_match
-Line_616_did_not_match
-Line_617_did_not_match
-Line_618_did_not_match
-Line_619_did_not_match
-Line_620_did_not_match
-Line_621_did_not_match
-Line_622_did_not_match
-Line_623_did_not_match
-Line_624_did_not_match
-Line_625_did_not_match
-Line_626_did_not_match
-Line_627_did_not_match
-Line_628_did_not_match
-Line_629_did_not_match
-Line_630_did_not_match
-Line_631_did_not_match
-Line_632_did_not_match
-Line_633_did_not_match
-Line_634_did_not_match
-Line_635_did_not_match
-Line_636_did_not_match
-Line_637_did_not_match
-Line_638_did_not_match
-Line_639_did_not_match
-Line_640_did_not_match
-Line_641_did_not_match
-Line_642_did_not_match
-Line_643_did_not_match
-Line_644_did_not_match
-Line_645_did_not_match
-Line_646_did_not_match
-Line_647_did_not_match
-Line_648_did_not_match
-Line_649_did_not_match
-Line_650_did_not_match
-Line_651_did_not_match
-Line_652_did_not_match
-Line_653_did_not_match
-Line_654_did_not_match
-Line_655_did_not_match
-Line_656_did_not_match
-Line_657_did_not_match
-Line_658_did_not_match
-Line_659_did_not_match
-Line_660_did_not_match
-Line_661_did_not_match
-Line_662_did_not_match
-Line_663_did_not_match
-Line_664_did_not_match
-Line_665_did_not_match
-Line_666_did_not_match
-Line_667_did_not_match
-Line_668_did_not_match
-Line_669_did_not_match
-Line_670_did_not_match
-Line_671_did_not_match
-Line_672_did_not_match
-Line_673_did_not_match
-Line_674_did_not_match
-Line_675_did_not_match
-Line_676_did_not_match
-Line_677_did_not_match
-Line_678_did_not_match
-Line_679_did_not_match
-Line_680_did_not_match
-Line_681_did_not_match
-Line_682_did_not_match
-Line_683_did_not_match
-Line_684_did_not_match
-Line_685_did_not_match
-Line_686_did_not_match
-Line_687_did_not_match
-Line_688_did_not_match
-Line_689_did_not_match
-Line_690_did_not_match
-Line_691_did_not_match
-Line_692_did_not_match
-Line_693_did_not_match
-Line_694_did_not_match
-Line_695_did_not_match
-Line_696_did_not_match
-Line_697_did_not_match
-Line_698_did_not_match
-Line_699_did_not_match
-Line_700_did_not_match
-Line_701_did_not_match
-Line_702_did_not_match
-Line_703_did_not_match
-Line_704_did_not_match
-Line_705_did_not_match
-Line_706_did_not_match
-Line_707_did_not_match
-Line_708_did_not_match
-Line_709_did_not_match
-Line_710_did_not_match
-Line_711_did_not_match
-Line_712_did_not_match
-Line_713_did_not_match
-Line_714_did_not_match
-Line_715_did_not_match
-Line_716_did_not_match
-Line_717_did_not_match
-Line_718_did_not_match
-Line_719_did_not_match
-Line_720_did_not_match
-Line_721_did_not_match
-Line_722_did_not_match
-Line_723_did_not_match
-Line_724_did_not_match
-Line_725_did_not_match
-Line_726_did_not_match
-Line_727_did_not_match
-Line_728_did_not_match
-Line_729_did_not_match
-Line_730_did_not_match
-Line_731_did_not_match
-Line_732_did_not_match
-Line_733_did_not_match
-Line_734_did_not_match
-Line_735_did_not_match
-Line_736_did_not_match
-Line_737_did_not_match
-Line_738_did_not_match
-Line_739_did_not_match
-Line_740_did_not_match
-Line_741_did_not_match
-Line_742_did_not_match
-Line_743_did_not_match
-Line_744_did_not_match
-Line_745_did_not_match
-Line_746_did_not_match
-Line_747_did_not_match
-Line_748_did_not_match
-Line_749_did_not_match
-Line_750_did_not_match
-Line_751_did_not_match
-Line_752_did_not_match
-Line_753_did_not_match
-Line_754_did_not_match
-Line_755_did_not_match
-Line_756_did_not_match
-Line_757_did_not_match
-Line_758_did_not_match
-Line_759_did_not_match
-Line_760_did_not_match
-Line_761_did_not_match
-Line_762_did_not_match
-Line_763_did_not_match
-Line_764_did_not_match
-Line_765_did_not_match
-Line_766_did_not_match
-Line_767_did_not_match
-Line_768_did_not_match
-Line_769_did_not_match
-Line_770_did_not_match
-Line_771_did_not_match
-Line_772_did_not_match
-Line_773_did_not_match
-Line_774_did_not_match
-Line_775_did_not_match
-Line_776_did_not_match
-Line_777_did_not_match
-Line_778_did_not_match
-Line_779_did_not_match
-Line_780_did_not_match
-Line_781_did_not_match
-Line_782_did_not_match
-Line_783_did_not_match
-Line_784_did_not_match
-Line_785_did_not_match
-Line_786_did_not_match
-Line_787_did_not_match
-Line_788_did_not_match
-Line_789_did_not_match
-Line_790_did_not_match
-Line_791_did_not_match
-Line_792_did_not_match
-Line_793_did_not_match
-Line_794_did_not_match
-Line_795_did_not_match
-Line_796_did_not_match
-Line_797_did_not_match
-Line_798_did_not_match
-Line_799_did_not_match
-Line_800_did_not_match
-Line_801_did_not_match
-Line_802_did_not_match
-Line_803_did_not_match
-Line_804_did_not_match
-Line_805_did_not_match
-Line_806_did_not_match
-Line_807_did_not_match
-Line_808_did_not_match
-Line_809_did_not_match
-Line_810_did_not_match
-Line_811_did_not_match
-Line_812_did_not_match
-Line_813_did_not_match
-Line_814_did_not_match
-Line_815_did_not_match
-Line_816_did_not_match
-Line_817_did_not_match
-Line_818_did_not_match
-Line_819_did_not_match
-Line_820_did_not_match
-Line_821_did_not_match
-Line_822_did_not_match
-Line_823_did_not_match
-Line_824_did_not_match
-Line_825_did_not_match
-Line_826_did_not_match
-Line_827_did_not_match
-Line_828_did_not_match
-Line_829_did_not_match
-Line_830_did_not_match
-Line_831_did_not_match
-Line_832_did_not_match
-Line_833_did_not_match
-Line_834_did_not_match
-Line_835_did_not_match
-Line_836_did_not_match
-Line_837_did_not_match
-Line_838_did_not_match
-Line_839_did_not_match
-Line_840_did_not_match
-Line_841_did_not_match
-Line_842_did_not_match
-Line_843_did_not_match
-Line_844_did_not_match
-Line_845_did_not_match
-Line_846_did_not_match
-Line_847_did_not_match
-Line_848_did_not_match
-Line_849_did_not_match
-Line_850_did_not_match
-Line_851_did_not_match
-Line_852_did_not_match
-Line_853_did_not_match
-Line_854_did_not_match
-Line_855_did_not_match
-Line_856_did_not_match
-Line_857_did_not_match
-Line_858_did_not_match
-Line_859_did_not_match
-Line_860_did_not_match
-Line_861_did_not_match
-Line_862_did_not_match
-Line_863_did_not_match
-Line_864_did_not_match
-Line_865_did_not_match
-Line_866_did_not_match
-Line_867_did_not_match
-Line_868_did_not_match
-Line_869_did_not_match
-Line_870_did_not_match
-Line_871_did_not_match
-Line_872_did_not_match
-Line_873_did_not_match
-Your file did not match the expected ouput
-Your output did not match what we expected. Here is what you printed
-Age  27 month 327 you have $21345.00
-Age  27 month 328 you have $1080.04
-Age  27 month 329 you have $1004.05
-Age  27 month 330 you have $1003.77
-Age  27 month 331 you have $1003.76
-Age  27 month 332 you have $1003.76
-Age  27 month 333 you have $1003.76
-Age  27 month 334 you have $1003.76
-Age  27 month 335 you have $1003.76
-Age  28 month 336 you have $1003.76
-Age  28 month 337 you have $1003.76
-Age  28 month 338 you have $1003.76
-Age  28 month 339 you have $1003.76
-Age  28 month 340 you have $1003.76
-Age  28 month 341 you have $1003.76
-Age  28 month 342 you have $1003.76
-Age  28 month 343 you have $1003.76
-Age  28 month 344 you have $1003.76
-Age  28 month 345 you have $1003.76
-Age  28 month 346 you have $1003.76
-Age  28 month 347 you have $1003.76
-Age  29 month 348 you have $1003.76
-Age  29 month 349 you have $1003.76
-Age  29 month 350 you have $1003.76
-Age  29 month 351 you have $1003.76
-Age  29 month 352 you have $1003.76
-Age  29 month 353 you have $1003.76
-Age  29 month 354 you have $1003.76
-Age  29 month 355 you have $1003.76
-Age  29 month 356 you have $1003.76
-Age  29 month 357 you have $1003.76
-Age  29 month 358 you have $1003.76
-Age  29 month 359 you have $1003.76
-Age  30 month 360 you have $1003.76
-Age  30 month 361 you have $1003.76
-Age  30 month 362 you have $1003.76
-Age  30 month 363 you have $1003.76
-Age  30 month 364 you have $1003.76
-Age  30 month 365 you have $1003.76
-Age  30 month 366 you have $1003.76
-Age  30 month 367 you have $1003.76
-Age  30 month 368 you have $1003.76
-Age  30 month 369 you have $1003.76
-Age  30 month 370 you have $1003.76
-Age  30 month 371 you have $1003.76
-Age  31 month 372 you have $1003.76
-Age  31 month 373 you have $1003.76
-Age  31 month 374 you have $1003.76
-Age  31 month 375 you have $1003.76
-Age  31 month 376 you have $1003.76
-Age  31 month 377 you have $1003.76
-Age  31 month 378 you have $1003.76
-Age  31 month 379 you have $1003.76
-Age  31 month 380 you have $1003.76
-Age  31 month 381 you have $1003.76
-Age  31 month 382 you have $1003.76
-Age  31 month 383 you have $1003.76
-Age  32 month 384 you have $1003.76
-Age  32 month 385 you have $1003.76
-Age  32 month 386 you have $1003.76
-Age  32 month 387 you have $1003.76
-Age  32 month 388 you have $1003.76
-Age  32 month 389 you have $1003.76
-Age  32 month 390 you have $1003.76
-Age  32 month 391 you have $1003.76
-Age  32 month 392 you have $1003.76
-Age  32 month 393 you have $1003.76
-Age  32 month 394 you have $1003.76
-Age  32 month 395 you have $1003.76
-Age  33 month 396 you have $1003.76
-Age  33 month 397 you have $1003.76
-Age  33 month 398 you have $1003.76
-Age  33 month 399 you have $1003.76
-Age  33 month 400 you have $1003.76
-Age  33 month 401 you have $1003.76
-Age  33 month 402 you have $1003.76
-Age  33 month 403 you have $1003.76
-Age  33 month 404 you have $1003.76
-Age  33 month 405 you have $1003.76
-Age  33 month 406 you have $1003.76
-Age  33 month 407 you have $1003.76
-Age  34 month 408 you have $1003.76
-Age  34 month 409 you have $1003.76
-Age  34 month 410 you have $1003.76
-Age  34 month 411 you have $1003.76
-Age  34 month 412 you have $1003.76
-Age  34 month 413 you have $1003.76
-Age  34 month 414 you have $1003.76
-Age  34 month 415 you have $1003.76
-Age  34 month 416 you have $1003.76
-Age  34 month 417 you have $1003.76
-Age  34 month 418 you have $1003.76
-Age  34 month 419 you have $1003.76
-Age  35 month 420 you have $1003.76
-Age  35 month 421 you have $1003.76
-Age  35 month 422 you have $1003.76
-Age  35 month 423 you have $1003.76
-Age  35 month 424 you have $1003.76
-Age  35 month 425 you have $1003.76
-Age  35 month 426 you have $1003.76
-Age  35 month 427 you have $1003.76
-Age  35 month 428 you have $1003.76
-Age  35 month 429 you have $1003.76
-Age  35 month 430 you have $1003.76
-Age  35 month 431 you have $1003.76
-Age  36 month 432 you have $1003.76
-Age  36 month 433 you have $1003.76
-Age  36 month 434 you have $1003.76
-Age  36 month 435 you have $1003.76
-Age  36 month 436 you have $1003.76
-Age  36 month 437 you have $1003.76
-Age  36 month 438 you have $1003.76
-Age  36 month 439 you have $1003.76
-Age  36 month 440 you have $1003.76
-Age  36 month 441 you have $1003.76
-Age  36 month 442 you have $1003.76
-Age  36 month 443 you have $1003.76
-Age  37 month 444 you have $1003.76
-Age  37 month 445 you have $1003.76
-Age  37 month 446 you have $1003.76
-Age  37 month 447 you have $1003.76
-Age  37 month 448 you have $1003.76
-Age  37 month 449 you have $1003.76
-Age  37 month 450 you have $1003.76
-Age  37 month 451 you have $1003.76
-Age  37 month 452 you have $1003.76
-Age  37 month 453 you have $1003.76
-Age  37 month 454 you have $1003.76
-Age  37 month 455 you have $1003.76
-Age  38 month 456 you have $1003.76
-Age  38 month 457 you have $1003.76
-Age  38 month 458 you have $1003.76
-Age  38 month 459 you have $1003.76
-Age  38 month 460 you have $1003.76
-Age  38 month 461 you have $1003.76
-Age  38 month 462 you have $1003.76
-Age  38 month 463 you have $1003.76
-Age  38 month 464 you have $1003.76
-Age  38 month 465 you have $1003.76
-Age  38 month 466 you have $1003.76
-Age  38 month 467 you have $1003.76
-Age  39 month 468 you have $1003.76
-Age  39 month 469 you have $1003.76
-Age  39 month 470 you have $1003.76
-Age  39 month 471 you have $1003.76
-Age  39 month 472 you have $1003.76
-Age  39 month 473 you have $1003.76
-Age  39 month 474 you have $1003.76
-Age  39 month 475 you have $1003.76
-Age  39 month 476 you have $1003.76
-Age  39 month 477 you have $1003.76
-Age  39 month 478 you have $1003.76
-Age  39 month 479 you have $1003.76
-Age  40 month 480 you have $1003.76
-Age  40 month 481 you have $1003.76
-Age  40 month 482 you have $1003.76
-Age  40 month 483 you have $1003.76
-Age  40 month 484 you have $1003.76
-Age  40 month 485 you have $1003.76
-Age  40 month 486 you have $1003.76
-Age  40 month 487 you have $1003.76
-Age  40 month 488 you have $1003.76
-Age  40 month 489 you have $1003.76
-Age  40 month 490 you have $1003.76
-Age  40 month 491 you have $1003.76
-Age  41 month 492 you have $1003.76
-Age  41 month 493 you have $1003.76
-Age  41 month 494 you have $1003.76
-Age  41 month 495 you have $1003.76
-Age  41 month 496 you have $1003.76
-Age  41 month 497 you have $1003.76
-Age  41 month 498 you have $1003.76
-Age  41 month 499 you have $1003.76
-Age  41 month 500 you have $1003.76
-Age  41 month 501 you have $1003.76
-Age  41 month 502 you have $1003.76
-Age  41 month 503 you have $1003.76
-Age  42 month 504 you have $1003.76
-Age  42 month 505 you have $1003.76
-Age  42 month 506 you have $1003.76
-Age  42 month 507 you have $1003.76
-Age  42 month 508 you have $1003.76
-Age  42 month 509 you have $1003.76
-Age  42 month 510 you have $1003.76
-Age  42 month 511 you have $1003.76
-Age  42 month 512 you have $1003.76
-Age  42 month 513 you have $1003.76
-Age  42 month 514 you have $1003.76
-Age  42 month 515 you have $1003.76
-Age  43 month 516 you have $1003.76
-Age  43 month 517 you have $1003.76
-Age  43 month 518 you have $1003.76
-Age  43 month 519 you have $1003.76
-Age  43 month 520 you have $1003.76
-Age  43 month 521 you have $1003.76
-Age  43 month 522 you have $1003.76
-Age  43 month 523 you have $1003.76
-Age  43 month 524 you have $1003.76
-Age  43 month 525 you have $1003.76
-Age  43 month 526 you have $1003.76
-Age  43 month 527 you have $1003.76
-Age  44 month 528 you have $1003.76
-Age  44 month 529 you have $1003.76
-Age  44 month 530 you have $1003.76
-Age  44 month 531 you have $1003.76
-Age  44 month 532 you have $1003.76
-Age  44 month 533 you have $1003.76
-Age  44 month 534 you have $1003.76
-Age  44 month 535 you have $1003.76
-Age  44 month 536 you have $1003.76
-Age  44 month 537 you have $1003.76
-Age  44 month 538 you have $1003.76
-Age  44 month 539 you have $1003.76
-Age  45 month 540 you have $1003.76
-Age  45 month 541 you have $1003.76
-Age  45 month 542 you have $1003.76
-Age  45 month 543 you have $1003.76
-Age  45 month 544 you have $1003.76
-Age  45 month 545 you have $1003.76
-Age  45 month 546 you have $1003.76
-Age  45 month 547 you have $1003.76
-Age  45 month 548 you have $1003.76
-Age  45 month 549 you have $1003.76
-Age  45 month 550 you have $1003.76
-Age  45 month 551 you have $1003.76
-Age  46 month 552 you have $1003.76
-Age  46 month 553 you have $1003.76
-Age  46 month 554 you have $1003.76
-Age  46 month 555 you have $1003.76
-Age  46 month 556 you have $1003.76
-Age  46 month 557 you have $1003.76
-Age  46 month 558 you have $1003.76
-Age  46 month 559 you have $1003.76
-Age  46 month 560 you have $1003.76
-Age  46 month 561 you have $1003.76
-Age  46 month 562 you have $1003.76
-Age  46 month 563 you have $1003.76
-Age  47 month 564 you have $1003.76
-Age  47 month 565 you have $1003.76
-Age  47 month 566 you have $1003.76
-Age  47 month 567 you have $1003.76
-Age  47 month 568 you have $1003.76
-Age  47 month 569 you have $1003.76
-Age  47 month 570 you have $1003.76
-Age  47 month 571 you have $1003.76
-Age  47 month 572 you have $1003.76
-Age  47 month 573 you have $1003.76
-Age  47 month 574 you have $1003.76
-Age  47 month 575 you have $1003.76
-Age  48 month 576 you have $1003.76
-Age  48 month 577 you have $1003.76
-Age  48 month 578 you have $1003.76
-Age  48 month 579 you have $1003.76
-Age  48 month 580 you have $1003.76
-Age  48 month 581 you have $1003.76
-Age  48 month 582 you have $1003.76
-Age  48 month 583 you have $1003.76
-Age  48 month 584 you have $1003.76
-Age  48 month 585 you have $1003.76
-Age  48 month 586 you have $1003.76
-Age  48 month 587 you have $1003.76
-Age  49 month 588 you have $1003.76
-Age  49 month 589 you have $1003.76
-Age  49 month 590 you have $1003.76
-Age  49 month 591 you have $1003.76
-Age  49 month 592 you have $1003.76
-Age  49 month 593 you have $1003.76
-Age  49 month 594 you have $1003.76
-Age  49 month 595 you have $1003.76
-Age  49 month 596 you have $1003.76
-Age  49 month 597 you have $1003.76
-Age  49 month 598 you have $1003.76
-Age  49 month 599 you have $1003.76
-Age  50 month 600 you have $1003.76
-Age  50 month 601 you have $1003.76
-Age  50 month 602 you have $1003.76
-Age  50 month 603 you have $1003.76
-Age  50 month 604 you have $1003.76
-Age  50 month 605 you have $1003.76
-Age  50 month 606 you have $1003.76
-Age  50 month 607 you have $1003.76
-Age  50 month 608 you have $1003.76
-Age  50 month 609 you have $1003.76
-Age  50 month 610 you have $1003.76
-Age  50 month 611 you have $1003.76
-Age  51 month 612 you have $1003.76
-Age  51 month 613 you have $1003.76
-Age  51 month 614 you have $1003.76
-Age  51 month 615 you have $1003.76
-Age  51 month 616 you have $1003.76
-Age  51 month 617 you have $1003.76
-Age  51 month 618 you have $1003.76
-Age  51 month 619 you have $1003.76
-Age  51 month 620 you have $1003.76
-Age  51 month 621 you have $1003.76
-Age  51 month 622 you have $1003.76
-Age  51 month 623 you have $1003.76
-Age  52 month 624 you have $1003.76
-Age  52 month 625 you have $1003.76
-Age  52 month 626 you have $1003.76
-Age  52 month 627 you have $1003.76
-Age  52 month 628 you have $1003.76
-Age  52 month 629 you have $1003.76
-Age  52 month 630 you have $1003.76
-Age  52 month 631 you have $1003.76
-Age  52 month 632 you have $1003.76
-Age  52 month 633 you have $1003.76
-Age  52 month 634 you have $1003.76
-Age  52 month 635 you have $1003.76
-Age  53 month 636 you have $1003.76
-Age  53 month 637 you have $1003.76
-Age  53 month 638 you have $1003.76
-Age  53 month 639 you have $1003.76
-Age  53 month 640 you have $1003.76
-Age  53 month 641 you have $1003.76
-Age  53 month 642 you have $1003.76
-Age  53 month 643 you have $1003.76
-Age  53 month 644 you have $1003.76
-Age  53 month 645 you have $1003.76
-Age  53 month 646 you have $1003.76
-Age  53 month 647 you have $1003.76
-Age  54 month 648 you have $1003.76
-Age  54 month 649 you have $1003.76
-Age  54 month 650 you have $1003.76
-Age  54 month 651 you have $1003.76
-Age  54 month 652 you have $1003.76
-Age  54 month 653 you have $1003.76
-Age  54 month 654 you have $1003.76
-Age  54 month 655 you have $1003.76
-Age  54 month 656 you have $1003.76
-Age  54 month 657 you have $1003.76
-Age  54 month 658 you have $1003.76
-Age  54 month 659 you have $1003.76
-Age  55 month 660 you have $1003.76
-Age  55 month 661 you have $1003.76
-Age  55 month 662 you have $1003.76
-Age  55 month 663 you have $1003.76
-Age  55 month 664 you have $1003.76
-Age  55 month 665 you have $1003.76
-Age  55 month 666 you have $1003.76
-Age  55 month 667 you have $1003.76
-Age  55 month 668 you have $1003.76
-Age  55 month 669 you have $1003.76
-Age  55 month 670 you have $1003.76
-Age  55 month 671 you have $1003.76
-Age  56 month 672 you have $1003.76
-Age  56 month 673 you have $1003.76
-Age  56 month 674 you have $1003.76
-Age  56 month 675 you have $1003.76
-Age  56 month 676 you have $1003.76
-Age  56 month 677 you have $1003.76
-Age  56 month 678 you have $1003.76
-Age  56 month 679 you have $1003.76
-Age  56 month 680 you have $1003.76
-Age  56 month 681 you have $1003.76
-Age  56 month 682 you have $1003.76
-Age  56 month 683 you have $1003.76
-Age  57 month 684 you have $1003.76
-Age  57 month 685 you have $1003.76
-Age  57 month 686 you have $1003.76
-Age  57 month 687 you have $1003.76
-Age  57 month 688 you have $1003.76
-Age  57 month 689 you have $1003.76
-Age  57 month 690 you have $1003.76
-Age  57 month 691 you have $1003.76
-Age  57 month 692 you have $1003.76
-Age  57 month 693 you have $1003.76
-Age  57 month 694 you have $1003.76
-Age  57 month 695 you have $1003.76
-Age  58 month 696 you have $1003.76
-Age  58 month 697 you have $1003.76
-Age  58 month 698 you have $1003.76
-Age  58 month 699 you have $1003.76
-Age  58 month 700 you have $1003.76
-Age  58 month 701 you have $1003.76
-Age  58 month 702 you have $1003.76
-Age  58 month 703 you have $1003.76
-Age  58 month 704 you have $1003.76
-Age  58 month 705 you have $1003.76
-Age  58 month 706 you have $1003.76
-Age  58 month 707 you have $1003.76
-Age  59 month 708 you have $1003.76
-Age  59 month 709 you have $1003.76
-Age  59 month 710 you have $1003.76
-Age  59 month 711 you have $1003.76
-Age  59 month 712 you have $1003.76
-Age  59 month 713 you have $1003.76
-Age  59 month 714 you have $1003.76
-Age  59 month 715 you have $1003.76
-Age  59 month 716 you have $1003.76
-Age  59 month 717 you have $1003.76
-Age  59 month 718 you have $1003.76
-Age  59 month 719 you have $1003.76
-Age  60 month 720 you have $1003.76
-Age  60 month 721 you have $1003.76
-Age  60 month 722 you have $1003.76
-Age  60 month 723 you have $1003.76
-Age  60 month 724 you have $1003.76
-Age  60 month 725 you have $1003.76
-Age  60 month 726 you have $1003.76
-Age  60 month 727 you have $1003.76
-Age  60 month 728 you have $1003.76
-Age  60 month 729 you have $1003.76
-Age  60 month 730 you have $1003.76
-Age  60 month 731 you have $1003.76
-Age  61 month 732 you have $1003.76
-Age  61 month 733 you have $1003.76
-Age  61 month 734 you have $1003.76
-Age  61 month 735 you have $1003.76
-Age  61 month 736 you have $1003.76
-Age  61 month 737 you have $1003.76
-Age  61 month 738 you have $1003.76
-Age  61 month 739 you have $1003.76
-Age  61 month 740 you have $1003.76
-Age  61 month 741 you have $1003.76
-Age  61 month 742 you have $1003.76
-Age  61 month 743 you have $1003.76
-Age  62 month 744 you have $1003.76
-Age  62 month 745 you have $1003.76
-Age  62 month 746 you have $1003.76
-Age  62 month 747 you have $1003.76
-Age  62 month 748 you have $1003.76
-Age  62 month 749 you have $1003.76
-Age  62 month 750 you have $1003.76
-Age  62 month 751 you have $1003.76
-Age  62 month 752 you have $1003.76
-Age  62 month 753 you have $1003.76
-Age  62 month 754 you have $1003.76
-Age  62 month 755 you have $1003.76
-Age  63 month 756 you have $1003.76
-Age  63 month 757 you have $1003.76
-Age  63 month 758 you have $1003.76
-Age  63 month 759 you have $1003.76
-Age  63 month 760 you have $1003.76
-Age  63 month 761 you have $1003.76
-Age  63 month 762 you have $1003.76
-Age  63 month 763 you have $1003.76
-Age  63 month 764 you have $1003.76
-Age  63 month 765 you have $1003.76
-Age  63 month 766 you have $1003.76
-Age  63 month 767 you have $1003.76
-Age  64 month 768 you have $1003.76
-Age  64 month 769 you have $1003.76
-Age  64 month 770 you have $1003.76
-Age  64 month 771 you have $1003.76
-Age  64 month 772 you have $1003.76
-Age  64 month 773 you have $1003.76
-Age  64 month 774 you have $1003.76
-Age  64 month 775 you have $1003.76
-Age  64 month 776 you have $1003.76
-Age  64 month 777 you have $1003.76
-Age  64 month 778 you have $1003.76
-Age  64 month 779 you have $1003.76
-Age  65 month 780 you have $1003.76
-Age  65 month 781 you have $1003.76
-Age  65 month 782 you have $1003.76
-Age  65 month 783 you have $1003.76
-Age  65 month 784 you have $1003.76
-Age  65 month 785 you have $1003.76
-Age  65 month 786 you have $1003.76
-Age  65 month 787 you have $1003.76
-Age  65 month 788 you have $1003.76
-Age  65 month 789 you have $1003.76
-Age  65 month 790 you have $1003.76
-Age  65 month 791 you have $1003.76
-Age  66 month 792 you have $1003.76
-Age  66 month 793 you have $1003.76
-Age  66 month 794 you have $1003.76
-Age  66 month 795 you have $1003.76
-Age  66 month 796 you have $1003.76
-Age  66 month 797 you have $1003.76
-Age  66 month 798 you have $1003.76
-Age  66 month 799 you have $1003.76
-Age  66 month 800 you have $1003.76
-Age  66 month 801 you have $1003.76
-Age  66 month 802 you have $1003.76
-Age  66 month 803 you have $1003.76
-Age  67 month 804 you have $1003.76
-Age  67 month 805 you have $1003.76
-Age  67 month 806 you have $1003.76
-Age  67 month 807 you have $1003.76
-Age  67 month 808 you have $1003.76
-Age  67 month 809 you have $1003.76
-Age  67 month 810 you have $1003.76
-Age  67 month 811 you have $1003.76
-Age  67 month 812 you have $1003.76
-Age  67 month 813 you have $1003.76
-Age  67 month 814 you have $1003.76
-Age  67 month 815 you have $1003.76
-Age  68 month 816 you have $1003.76
-Age  68 month 817 you have $-3999.16
-Age  68 month 818 you have $-4003.33
-Age  68 month 819 you have $-4003.34
-Age  68 month 820 you have $-4003.34
-Age  68 month 821 you have $-4003.34
-Age  68 month 822 you have $-4003.34
-Age  68 month 823 you have $-4003.34
-Age  68 month 824 you have $-4003.34
-Age  68 month 825 you have $-4003.34
-Age  68 month 826 you have $-4003.34
-Age  68 month 827 you have $-4003.34
-Age  69 month 828 you have $-4003.34
-Age  69 month 829 you have $-4003.34
-Age  69 month 830 you have $-4003.34
-Age  69 month 831 you have $-4003.34
-Age  69 month 832 you have $-4003.34
-Age  69 month 833 you have $-4003.34
-Age  69 month 834 you have $-4003.34
-Age  69 month 835 you have $-4003.34
-Age  69 month 836 you have $-4003.34
-Age  69 month 837 you have $-4003.34
-Age  69 month 838 you have $-4003.34
-Age  69 month 839 you have $-4003.34
-Age  70 month 840 you have $-4003.34
-Age  70 month 841 you have $-4003.34
-Age  70 month 842 you have $-4003.34
-Age  70 month 843 you have $-4003.34
-Age  70 month 844 you have $-4003.34
-Age  70 month 845 you have $-4003.34
-Age  70 month 846 you have $-4003.34
-Age  70 month 847 you have $-4003.34
-Age  70 month 848 you have $-4003.34
-Age  70 month 849 you have $-4003.34
-Age  70 month 850 you have $-4003.34
-Age  70 month 851 you have $-4003.34
-Age  71 month 852 you have $-4003.34
-Age  71 month 853 you have $-4003.34
-Age  71 month 854 you have $-4003.34
-Age  71 month 855 you have $-4003.34
-Age  71 month 856 you have $-4003.34
-Age  71 month 857 you have $-4003.34
-Age  71 month 858 you have $-4003.34
-Age  71 month 859 you have $-4003.34
-Age  71 month 860 you have $-4003.34
-Age  71 month 861 you have $-4003.34
-Age  71 month 862 you have $-4003.34
-Age  71 month 863 you have $-4003.34
-Age  72 month 864 you have $-4003.34
-Age  72 month 865 you have $-4003.34
-Age  72 month 866 you have $-4003.34
-Age  72 month 867 you have $-4003.34
-Age  72 month 868 you have $-4003.34
-Age  72 month 869 you have $-4003.34
-Age  72 month 870 you have $-4003.34
-Age  72 month 871 you have $-4003.34
-Age  72 month 872 you have $-4003.34
-Age  72 month 873 you have $-4003.34
-Age  72 month 874 you have $-4003.34
-Age  72 month 875 you have $-4003.34
-Age  73 month 876 you have $-4003.34
-Age  73 month 877 you have $-4003.34
-Age  73 month 878 you have $-4003.34
-Age  73 month 879 you have $-4003.34
-Age  73 month 880 you have $-4003.34
-Age  73 month 881 you have $-4003.34
-Age  73 month 882 you have $-4003.34
-Age  73 month 883 you have $-4003.34
-Age  73 month 884 you have $-4003.34
-Age  73 month 885 you have $-4003.34
-Age  73 month 886 you have $-4003.34
-Age  73 month 887 you have $-4003.34
-Age  74 month 888 you have $-4003.34
-Age  74 month 889 you have $-4003.34
-Age  74 month 890 you have $-4003.34
-Age  74 month 891 you have $-4003.34
-Age  74 month 892 you have $-4003.34
-Age  74 month 893 you have $-4003.34
-Age  74 month 894 you have $-4003.34
-Age  74 month 895 you have $-4003.34
-Age  74 month 896 you have $-4003.34
-Age  74 month 897 you have $-4003.34
-Age  74 month 898 you have $-4003.34
-Age  74 month 899 you have $-4003.34
-Age  75 month 900 you have $-4003.34
-Age  75 month 901 you have $-4003.34
-Age  75 month 902 you have $-4003.34
-Age  75 month 903 you have $-4003.34
-Age  75 month 904 you have $-4003.34
-Age  75 month 905 you have $-4003.34
-Age  75 month 906 you have $-4003.34
-Age  75 month 907 you have $-4003.34
-Age  75 month 908 you have $-4003.34
-Age  75 month 909 you have $-4003.34
-Age  75 month 910 you have $-4003.34
-Age  75 month 911 you have $-4003.34
-Age  76 month 912 you have $-4003.34
-Age  76 month 913 you have $-4003.34
-Age  76 month 914 you have $-4003.34
-Age  76 month 915 you have $-4003.34
-Age  76 month 916 you have $-4003.34
-Age  76 month 917 you have $-4003.34
-Age  76 month 918 you have $-4003.34
-Age  76 month 919 you have $-4003.34
-Age  76 month 920 you have $-4003.34
-Age  76 month 921 you have $-4003.34
-Age  76 month 922 you have $-4003.34
-Age  76 month 923 you have $-4003.34
-Age  77 month 924 you have $-4003.34
-Age  77 month 925 you have $-4003.34
-Age  77 month 926 you have $-4003.34
-Age  77 month 927 you have $-4003.34
-Age  77 month 928 you have $-4003.34
-Age  77 month 929 you have $-4003.34
-Age  77 month 930 you have $-4003.34
-Age  77 month 931 you have $-4003.34
-Age  77 month 932 you have $-4003.34
-Age  77 month 933 you have $-4003.34
-Age  77 month 934 you have $-4003.34
-Age  77 month 935 you have $-4003.34
-Age  78 month 936 you have $-4003.34
-Age  78 month 937 you have $-4003.34
-Age  78 month 938 you have $-4003.34
-Age  78 month 939 you have $-4003.34
-Age  78 month 940 you have $-4003.34
-Age  78 month 941 you have $-4003.34
-Age  78 month 942 you have $-4003.34
-Age  78 month 943 you have $-4003.34
-Age  78 month 944 you have $-4003.34
-Age  78 month 945 you have $-4003.34
-Age  78 month 946 you have $-4003.34
-Age  78 month 947 you have $-4003.34
-Age  79 month 948 you have $-4003.34
-Age  79 month 949 you have $-4003.34
-Age  79 month 950 you have $-4003.34
-Age  79 month 951 you have $-4003.34
-Age  79 month 952 you have $-4003.34
-Age  79 month 953 you have $-4003.34
-Age  79 month 954 you have $-4003.34
-Age  79 month 955 you have $-4003.34
-Age  79 month 956 you have $-4003.34
-Age  79 month 957 you have $-4003.34
-Age  79 month 958 you have $-4003.34
-Age  79 month 959 you have $-4003.34
-Age  80 month 960 you have $-4003.34
-Age  80 month 961 you have $-4003.34
-Age  80 month 962 you have $-4003.34
-Age  80 month 963 you have $-4003.34
-Age  80 month 964 you have $-4003.34
-Age  80 month 965 you have $-4003.34
-Age  80 month 966 you have $-4003.34
-Age  80 month 967 you have $-4003.34
-Age  80 month 968 you have $-4003.34
-Age  80 month 969 you have $-4003.34
-Age  80 month 970 you have $-4003.34
-Age  80 month 971 you have $-4003.34
-Age  81 month 972 you have $-4003.34
-Age  81 month 973 you have $-4003.34
-Age  81 month 974 you have $-4003.34
-Age  81 month 975 you have $-4003.34
-Age  81 month 976 you have $-4003.34
-Age  81 month 977 you have $-4003.34
-Age  81 month 978 you have $-4003.34
-Age  81 month 979 you have $-4003.34
-Age  81 month 980 you have $-4003.34
-Age  81 month 981 you have $-4003.34
-Age  81 month 982 you have $-4003.34
-Age  81 month 983 you have $-4003.34
-Age  82 month 984 you have $-4003.34
-Age  82 month 985 you have $-4003.34
-Age  82 month 986 you have $-4003.34
-Age  82 month 987 you have $-4003.34
-Age  82 month 988 you have $-4003.34
-Age  82 month 989 you have $-4003.34
-Age  82 month 990 you have $-4003.34
-Age  82 month 991 you have $-4003.34
-Age  82 month 992 you have $-4003.34
-Age  82 month 993 you have $-4003.34
-Age  82 month 994 you have $-4003.34
-Age  82 month 995 you have $-4003.34
-Age  83 month 996 you have $-4003.34
-Age  83 month 997 you have $-4003.34
-Age  83 month 998 you have $-4003.34
-Age  83 month 999 you have $-4003.34
-Age  83 month 1000 you have $-4003.34
-Age  83 month 1001 you have $-4003.34
-Age  83 month 1002 you have $-4003.34
-Age  83 month 1003 you have $-4003.34
-Age  83 month 1004 you have $-4003.34
-Age  83 month 1005 you have $-4003.34
-Age  83 month 1006 you have $-4003.34
-Age  83 month 1007 you have $-4003.34
-Age  84 month 1008 you have $-4003.34
-Age  84 month 1009 you have $-4003.34
-Age  84 month 1010 you have $-4003.34
-Age  84 month 1011 you have $-4003.34
-Age  84 month 1012 you have $-4003.34
-Age  84 month 1013 you have $-4003.34
-Age  84 month 1014 you have $-4003.34
-Age  84 month 1015 you have $-4003.34
-Age  84 month 1016 you have $-4003.34
-Age  84 month 1017 you have $-4003.34
-Age  84 month 1018 you have $-4003.34
-Age  84 month 1019 you have $-4003.34
-Age  85 month 1020 you have $-4003.34
-Age  85 month 1021 you have $-4003.34
-Age  85 month 1022 you have $-4003.34
-Age  85 month 1023 you have $-4003.34
-Age  85 month 1024 you have $-4003.34
-Age  85 month 1025 you have $-4003.34
-Age  85 month 1026 you have $-4003.34
-Age  85 month 1027 you have $-4003.34
-Age  85 month 1028 you have $-4003.34
-Age  85 month 1029 you have $-4003.34
-Age  85 month 1030 you have $-4003.34
-Age  85 month 1031 you have $-4003.34
-Age  86 month 1032 you have $-4003.34
-Age  86 month 1033 you have $-4003.34
-Age  86 month 1034 you have $-4003.34
-Age  86 month 1035 you have $-4003.34
-Age  86 month 1036 you have $-4003.34
-Age  86 month 1037 you have $-4003.34
-Age  86 month 1038 you have $-4003.34
-Age  86 month 1039 you have $-4003.34
-Age  86 month 1040 you have $-4003.34
-Age  86 month 1041 you have $-4003.34
-Age  86 month 1042 you have $-4003.34
-Age  86 month 1043 you have $-4003.34
-Age  87 month 1044 you have $-4003.34
-Age  87 month 1045 you have $-4003.34
-Age  87 month 1046 you have $-4003.34
-Age  87 month 1047 you have $-4003.34
-Age  87 month 1048 you have $-4003.34
-Age  87 month 1049 you have $-4003.34
-Age  87 month 1050 you have $-4003.34
-Age  87 month 1051 you have $-4003.34
-Age  87 month 1052 you have $-4003.34
-Age  87 month 1053 you have $-4003.34
-Age  87 month 1054 you have $-4003.34
-Age  87 month 1055 you have $-4003.34
-Age  88 month 1056 you have $-4003.34
-Age  88 month 1057 you have $-4003.34
-Age  88 month 1058 you have $-4003.34
-Age  88 month 1059 you have $-4003.34
-Age  88 month 1060 you have $-4003.34
-Age  88 month 1061 you have $-4003.34
-Age  88 month 1062 you have $-4003.34
-Age  88 month 1063 you have $-4003.34
-Age  88 month 1064 you have $-4003.34
-Age  88 month 1065 you have $-4003.34
-Age  88 month 1066 you have $-4003.34
-Age  88 month 1067 you have $-4003.34
-Age  89 month 1068 you have $-4003.34
-Age  89 month 1069 you have $-4003.34
-Age  89 month 1070 you have $-4003.34
-Age  89 month 1071 you have $-4003.34
-Age  89 month 1072 you have $-4003.34
-Age  89 month 1073 you have $-4003.34
-Age  89 month 1074 you have $-4003.34
-Age  89 month 1075 you have $-4003.34
-Age  89 month 1076 you have $-4003.34
-Age  89 month 1077 you have $-4003.34
-Age  89 month 1078 you have $-4003.34
-Age  89 month 1079 you have $-4003.34
-Age  90 month 1080 you have $-4003.34
-Age  90 month 1081 you have $-4003.34
-Age  90 month 1082 you have $-4003.34
-Age  90 month 1083 you have $-4003.34
-Age  90 month 1084 you have $-4003.34
-Age  90 month 1085 you have $-4003.34
-Age  90 month 1086 you have $-4003.34
-Age  90 month 1087 you have $-4003.34
-Age  90 month 1088 you have $-4003.34
-Age  90 month 1089 you have $-4003.34
-Age  90 month 1090 you have $-4003.34
-Age  90 month 1091 you have $-4003.34
-Age  91 month 1092 you have $-4003.34
-Age  91 month 1093 you have $-4003.34
-Age  91 month 1094 you have $-4003.34
-Age  91 month 1095 you have $-4003.34
-Age  91 month 1096 you have $-4003.34
-Age  91 month 1097 you have $-4003.34
-Age  91 month 1098 you have $-4003.34
-Age  91 month 1099 you have $-4003.34
-Age  91 month 1100 you have $-4003.34
-Age  91 month 1101 you have $-4003.34
-Age  91 month 1102 you have $-4003.34
-Age  91 month 1103 you have $-4003.34
-Age  92 month 1104 you have $-4003.34
-Age  92 month 1105 you have $-4003.34
-Age  92 month 1106 you have $-4003.34
-Age  92 month 1107 you have $-4003.34
-Age  92 month 1108 you have $-4003.34
-Age  92 month 1109 you have $-4003.34
-Age  92 month 1110 you have $-4003.34
-Age  92 month 1111 you have $-4003.34
-Age  92 month 1112 you have $-4003.34
-Age  92 month 1113 you have $-4003.34
-Age  92 month 1114 you have $-4003.34
-Age  92 month 1115 you have $-4003.34
-Age  93 month 1116 you have $-4003.34
-Age  93 month 1117 you have $-4003.34
-Age  93 month 1118 you have $-4003.34
-Age  93 month 1119 you have $-4003.34
-Age  93 month 1120 you have $-4003.34
-Age  93 month 1121 you have $-4003.34
-Age  93 month 1122 you have $-4003.34
-Age  93 month 1123 you have $-4003.34
-Age  93 month 1124 you have $-4003.34
-Age  93 month 1125 you have $-4003.34
-Age  93 month 1126 you have $-4003.34
-Age  93 month 1127 you have $-4003.34
-Age  94 month 1128 you have $-4003.34
-Age  94 month 1129 you have $-4003.34
-Age  94 month 1130 you have $-4003.34
-Age  94 month 1131 you have $-4003.34
-Age  94 month 1132 you have $-4003.34
-Age  94 month 1133 you have $-4003.34
-Age  94 month 1134 you have $-4003.34
-Age  94 month 1135 you have $-4003.34
-Age  94 month 1136 you have $-4003.34
-Age  94 month 1137 you have $-4003.34
-Age  94 month 1138 you have $-4003.34
-Age  94 month 1139 you have $-4003.34
-Age  95 month 1140 you have $-4003.34
-Age  95 month 1141 you have $-4003.34
-Age  95 month 1142 you have $-4003.34
-Age  95 month 1143 you have $-4003.34
-Age  95 month 1144 you have $-4003.34
-Age  95 month 1145 you have $-4003.34
-Age  95 month 1146 you have $-4003.34
-Age  95 month 1147 you have $-4003.34
-Age  95 month 1148 you have $-4003.34
-Age  95 month 1149 you have $-4003.34
-Age  95 month 1150 you have $-4003.34
-Age  95 month 1151 you have $-4003.34
-Age  96 month 1152 you have $-4003.34
-Age  96 month 1153 you have $-4003.34
-Age  96 month 1154 you have $-4003.34
-Age  96 month 1155 you have $-4003.34
-Age  96 month 1156 you have $-4003.34
-Age  96 month 1157 you have $-4003.34
-Age  96 month 1158 you have $-4003.34
-Age  96 month 1159 you have $-4003.34
-Age  96 month 1160 you have $-4003.34
-Age  96 month 1161 you have $-4003.34
-Age  96 month 1162 you have $-4003.34
-Age  96 month 1163 you have $-4003.34
-Age  97 month 1164 you have $-4003.34
-Age  97 month 1165 you have $-4003.34
-Age  97 month 1166 you have $-4003.34
-Age  97 month 1167 you have $-4003.34
-Age  97 month 1168 you have $-4003.34
-Age  97 month 1169 you have $-4003.34
-Age  97 month 1170 you have $-4003.34
-Age  97 month 1171 you have $-4003.34
-Age  97 month 1172 you have $-4003.34
-Age  97 month 1173 you have $-4003.34
-Age  97 month 1174 you have $-4003.34
-Age  97 month 1175 you have $-4003.34
-Age  98 month 1176 you have $-4003.34
-Age  98 month 1177 you have $-4003.34
-Age  98 month 1178 you have $-4003.34
-Age  98 month 1179 you have $-4003.34
-Age  98 month 1180 you have $-4003.34
-Age  98 month 1181 you have $-4003.34
-Age  98 month 1182 you have $-4003.34
-Age  98 month 1183 you have $-4003.34
-Age  98 month 1184 you have $-4003.34
-Age  98 month 1185 you have $-4003.34
-Age  98 month 1186 you have $-4003.34
-Age  98 month 1187 you have $-4003.34
-Age  99 month 1188 you have $-4003.34
-Age  99 month 1189 you have $-4003.34
-Age  99 month 1190 you have $-4003.34
-Age  99 month 1191 you have $-4003.34
-Age  99 month 1192 you have $-4003.34
-Age  99 month 1193 you have $-4003.34
-Age  99 month 1194 you have $-4003.34
-Age  99 month 1195 you have $-4003.34
-Age  99 month 1196 you have $-4003.34
-Age  99 month 1197 you have $-4003.34
-Age  99 month 1198 you have $-4003.34
-Age  99 month 1199 you have $-4003.34
+Your file matched the expected output
+Removing your main() and replacing it with our own to run more tests...
+                |         Working              |        Retired         
+ Age | Initial  | Saving  |   Rate    | Months | Spending |   Rate    | Months | Result
+ 240 |     0.00 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0009100 |   223  | Correct
+ 240 |     0.00 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0009100 |   395  | Correct
+ 240 |     0.00 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0041500 |   222  | Correct
+ 240 |     0.00 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0041500 |   382  | Correct
+ 240 |     0.00 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0007200 |   229  | Correct
+ 240 |     0.00 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0007200 |   381  | Correct
+ 240 |     0.00 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0042700 |   222  | Correct
+ 240 |     0.00 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0042700 |   405  | Correct
+ 240 |     0.00 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0003000 |   217  | Correct
+ 240 |     0.00 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0003000 |   403  | Correct
+ 240 |     0.00 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0047100 |   211  | Correct
+ 240 |     0.00 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0047100 |   379  | Correct
+ 240 |     0.00 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0005200 |   205  | Correct
+ 240 |     0.00 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0005200 |   396  | Correct
+ 240 |     0.00 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0045900 |   209  | Correct
+ 240 |     0.00 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0045900 |   370  | Correct
+ 240 |     0.00 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0004600 |   207  | Correct
+ 240 |     0.00 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0004600 |   404  | Correct
+ 240 |     0.00 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0043700 |   220  | Correct
+ 240 |     0.00 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0043700 |   378  | Correct
+ 240 |     0.00 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0003800 |   216  | Correct
+ 240 |     0.00 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0003800 |   386  | Correct
+ 240 |     0.00 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0049800 |   221  | Correct
+ 240 |     0.00 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0049800 |   373  | Correct
+ 240 |     0.00 | 1234.00 | 0.0056700 |   607  | -3567.00 | 0.0006600 |   205  | Correct
+ 240 |     0.00 | 1234.00 | 0.0056700 |   607  | -3567.00 | 0.0006600 |   386  | Correct
+ 240 |     0.00 | 1234.00 | 0.0056700 |   607  | -3567.00 | 0.0047100 |   220  | Correct
+ 240 |     0.00 | 1234.00 | 0.0056700 |   607  | -3567.00 | 0.0047100 |   408  | Correct
+ 240 |     0.00 | 1234.00 | 0.0056700 |   607  | -6534.00 | 0.0009000 |   217  | Correct
+ 240 |     0.00 | 1234.00 | 0.0056700 |   607  | -6534.00 | 0.0009000 |   374  | Correct
+ 240 |     0.00 | 1234.00 | 0.0056700 |   607  | -6534.00 | 0.0042100 |   215  | Correct
+ 240 |     0.00 | 1234.00 | 0.0056700 |   607  | -6534.00 | 0.0042100 |   371  | Correct
+ 240 |     0.00 | 3305.00 | 0.0026700 |   597  | -3567.00 | 0.0004500 |   208  | Correct
+ 240 |     0.00 | 3305.00 | 0.0026700 |   597  | -3567.00 | 0.0004500 |   375  | Correct
+ 240 |     0.00 | 3305.00 | 0.0026700 |   597  | -3567.00 | 0.0044700 |   217  | Correct
+ 240 |     0.00 | 3305.00 | 0.0026700 |   597  | -3567.00 | 0.0044700 |   373  | Correct
+ 240 |     0.00 | 3305.00 | 0.0026700 |   597  | -6534.00 | 0.0001700 |   212  | Correct
+ 240 |     0.00 | 3305.00 | 0.0026700 |   597  | -6534.00 | 0.0001700 |   400  | Correct
+ 240 |     0.00 | 3305.00 | 0.0026700 |   597  | -6534.00 | 0.0043800 |   229  | Correct
+ 240 |     0.00 | 3305.00 | 0.0026700 |   597  | -6534.00 | 0.0043800 |   393  | Correct
+ 240 |     0.00 | 3305.00 | 0.0026700 |   605  | -3567.00 | 0.0002200 |   211  | Correct
+ 240 |     0.00 | 3305.00 | 0.0026700 |   605  | -3567.00 | 0.0002200 |   406  | Correct
+ 240 |     0.00 | 3305.00 | 0.0026700 |   605  | -3567.00 | 0.0048300 |   212  | Correct
+ 240 |     0.00 | 3305.00 | 0.0026700 |   605  | -3567.00 | 0.0048300 |   401  | Correct
+ 240 |     0.00 | 3305.00 | 0.0026700 |   605  | -6534.00 | 0.0005600 |   211  | Correct
+ 240 |     0.00 | 3305.00 | 0.0026700 |   605  | -6534.00 | 0.0005600 |   394  | Correct
+ 240 |     0.00 | 3305.00 | 0.0026700 |   605  | -6534.00 | 0.0044800 |   213  | Correct
+ 240 |     0.00 | 3305.00 | 0.0026700 |   605  | -6534.00 | 0.0044800 |   377  | Correct
+ 240 |     0.00 | 3305.00 | 0.0056700 |   597  | -3567.00 | 0.0002700 |   228  | Correct
+ 240 |     0.00 | 3305.00 | 0.0056700 |   597  | -3567.00 | 0.0002700 |   375  | Correct
+ 240 |     0.00 | 3305.00 | 0.0056700 |   597  | -3567.00 | 0.0046000 |   213  | Correct
+ 240 |     0.00 | 3305.00 | 0.0056700 |   597  | -3567.00 | 0.0046000 |   381  | Correct
+ 240 |     0.00 | 3305.00 | 0.0056700 |   597  | -6534.00 | 0.0002900 |   231  | Correct
+ 240 |     0.00 | 3305.00 | 0.0056700 |   597  | -6534.00 | 0.0002900 |   376  | Correct
+ 240 |     0.00 | 3305.00 | 0.0056700 |   597  | -6534.00 | 0.0047700 |   205  | Correct
+ 240 |     0.00 | 3305.00 | 0.0056700 |   597  | -6534.00 | 0.0047700 |   384  | Correct
+ 240 |     0.00 | 3305.00 | 0.0056700 |   609  | -3567.00 | 0.0008000 |   221  | Correct
+ 240 |     0.00 | 3305.00 | 0.0056700 |   609  | -3567.00 | 0.0008000 |   374  | Correct
+ 240 |     0.00 | 3305.00 | 0.0056700 |   609  | -3567.00 | 0.0043900 |   220  | Correct
+ 240 |     0.00 | 3305.00 | 0.0056700 |   609  | -3567.00 | 0.0043900 |   405  | Correct
+ 240 |     0.00 | 3305.00 | 0.0056700 |   609  | -6534.00 | 0.0003900 |   226  | Correct
+ 240 |     0.00 | 3305.00 | 0.0056700 |   609  | -6534.00 | 0.0003900 |   397  | Correct
+ 240 |     0.00 | 3305.00 | 0.0056700 |   609  | -6534.00 | 0.0045000 |   205  | Correct
+ 240 |     0.00 | 3305.00 | 0.0056700 |   609  | -6534.00 | 0.0045000 |   377  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0003000 |   208  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0003000 |   383  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0048200 |   206  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0048200 |   400  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0002800 |   213  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0002800 |   391  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0047000 |   219  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0047000 |   380  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0026700 |   604  | -3567.00 | 0.0009700 |   225  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0026700 |   604  | -3567.00 | 0.0009700 |   395  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0026700 |   604  | -3567.00 | 0.0049400 |   228  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0026700 |   604  | -3567.00 | 0.0049400 |   399  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0026700 |   604  | -6534.00 | 0.0005700 |   217  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0026700 |   604  | -6534.00 | 0.0005700 |   404  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0026700 |   604  | -6534.00 | 0.0045100 |   217  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0026700 |   604  | -6534.00 | 0.0045100 |   408  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0000100 |   229  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0000100 |   407  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0049900 |   218  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0049900 |   370  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0000300 |   215  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0000300 |   384  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0043500 |   213  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0043500 |   372  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0056700 |   608  | -3567.00 | 0.0001600 |   226  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0056700 |   608  | -3567.00 | 0.0001600 |   374  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0056700 |   608  | -3567.00 | 0.0046900 |   230  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0056700 |   608  | -3567.00 | 0.0046900 |   408  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0056700 |   608  | -6534.00 | 0.0008700 |   212  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0056700 |   608  | -6534.00 | 0.0008700 |   389  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0056700 |   608  | -6534.00 | 0.0042100 |   228  | Correct
+ 240 | 13741.82 | 1234.00 | 0.0056700 |   608  | -6534.00 | 0.0042100 |   375  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0026700 |   597  | -3567.00 | 0.0006900 |   211  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0026700 |   597  | -3567.00 | 0.0006900 |   390  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0026700 |   597  | -3567.00 | 0.0043600 |   205  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0026700 |   597  | -3567.00 | 0.0043600 |   393  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0026700 |   597  | -6534.00 | 0.0003600 |   209  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0026700 |   597  | -6534.00 | 0.0003600 |   387  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0026700 |   597  | -6534.00 | 0.0048600 |   212  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0026700 |   597  | -6534.00 | 0.0048600 |   398  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0026700 |   608  | -3567.00 | 0.0002600 |   223  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0026700 |   608  | -3567.00 | 0.0002600 |   408  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0026700 |   608  | -3567.00 | 0.0040500 |   207  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0026700 |   608  | -3567.00 | 0.0040500 |   379  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0026700 |   608  | -6534.00 | 0.0000100 |   222  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0026700 |   608  | -6534.00 | 0.0000100 |   388  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0026700 |   608  | -6534.00 | 0.0040000 |   231  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0026700 |   608  | -6534.00 | 0.0040000 |   375  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0056700 |   597  | -3567.00 | 0.0006600 |   210  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0056700 |   597  | -3567.00 | 0.0006600 |   383  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0056700 |   597  | -3567.00 | 0.0046000 |   206  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0056700 |   597  | -3567.00 | 0.0046000 |   376  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0056700 |   597  | -6534.00 | 0.0005600 |   222  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0056700 |   597  | -6534.00 | 0.0005600 |   372  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0056700 |   597  | -6534.00 | 0.0046900 |   216  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0056700 |   597  | -6534.00 | 0.0046900 |   377  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0056700 |   592  | -3567.00 | 0.0000500 |   210  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0056700 |   592  | -3567.00 | 0.0000500 |   403  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0056700 |   592  | -3567.00 | 0.0040600 |   222  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0056700 |   592  | -3567.00 | 0.0040600 |   389  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0056700 |   592  | -6534.00 | 0.0005900 |   217  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0056700 |   592  | -6534.00 | 0.0005900 |   390  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0056700 |   592  | -6534.00 | 0.0040000 |   221  | Correct
+ 240 | 13741.82 | 2453.00 | 0.0056700 |   592  | -6534.00 | 0.0040000 |   385  | Correct
+ 345 |     0.00 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0004100 |   216  | Correct
+ 345 |     0.00 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0004100 |   396  | Correct
+ 345 |     0.00 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0048400 |   215  | Correct
+ 345 |     0.00 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0048400 |   401  | Correct
+ 345 |     0.00 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0006700 |   224  | Correct
+ 345 |     0.00 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0006700 |   376  | Correct
+ 345 |     0.00 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0046300 |   226  | Correct
+ 345 |     0.00 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0046300 |   384  | Correct
+ 345 |     0.00 | 1234.00 | 0.0026700 |   603  | -3567.00 | 0.0009900 |   230  | Correct
+ 345 |     0.00 | 1234.00 | 0.0026700 |   603  | -3567.00 | 0.0009900 |   408  | Correct
+ 345 |     0.00 | 1234.00 | 0.0026700 |   603  | -3567.00 | 0.0042200 |   209  | Correct
+ 345 |     0.00 | 1234.00 | 0.0026700 |   603  | -3567.00 | 0.0042200 |   395  | Correct
+ 345 |     0.00 | 1234.00 | 0.0026700 |   603  | -6534.00 | 0.0000900 |   222  | Correct
+ 345 |     0.00 | 1234.00 | 0.0026700 |   603  | -6534.00 | 0.0000900 |   391  | Correct
+ 345 |     0.00 | 1234.00 | 0.0026700 |   603  | -6534.00 | 0.0042700 |   216  | Correct
+ 345 |     0.00 | 1234.00 | 0.0026700 |   603  | -6534.00 | 0.0042700 |   371  | Correct
+ 345 |     0.00 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0001900 |   210  | Correct
+ 345 |     0.00 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0001900 |   384  | Correct
+ 345 |     0.00 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0040400 |   232  | Correct
+ 345 |     0.00 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0040400 |   406  | Correct
+ 345 |     0.00 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0004200 |   219  | Correct
+ 345 |     0.00 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0004200 |   402  | Correct
+ 345 |     0.00 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0044800 |   229  | Correct
+ 345 |     0.00 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0044800 |   388  | Correct
+ 345 |     0.00 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0003000 |   220  | Correct
+ 345 |     0.00 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0003000 |   408  | Correct
+ 345 |     0.00 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0046500 |   220  | Correct
+ 345 |     0.00 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0046500 |   405  | Correct
+ 345 |     0.00 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0002300 |   228  | Correct
+ 345 |     0.00 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0002300 |   407  | Correct
+ 345 |     0.00 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0049800 |   231  | Correct
+ 345 |     0.00 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0049800 |   387  | Correct
+ 345 |     0.00 | 2372.00 | 0.0026700 |   597  | -3567.00 | 0.0008100 |   209  | Correct
+ 345 |     0.00 | 2372.00 | 0.0026700 |   597  | -3567.00 | 0.0008100 |   381  | Correct
+ 345 |     0.00 | 2372.00 | 0.0026700 |   597  | -3567.00 | 0.0045000 |   208  | Correct
+ 345 |     0.00 | 2372.00 | 0.0026700 |   597  | -3567.00 | 0.0045000 |   382  | Correct
+ 345 |     0.00 | 2372.00 | 0.0026700 |   597  | -6534.00 | 0.0004400 |   233  | Correct
+ 345 |     0.00 | 2372.00 | 0.0026700 |   597  | -6534.00 | 0.0004400 |   386  | Correct
+ 345 |     0.00 | 2372.00 | 0.0026700 |   597  | -6534.00 | 0.0041100 |   221  | Correct
+ 345 |     0.00 | 2372.00 | 0.0026700 |   597  | -6534.00 | 0.0041100 |   399  | Correct
+ 345 |     0.00 | 2372.00 | 0.0026700 |   614  | -3567.00 | 0.0003600 |   224  | Correct
+ 345 |     0.00 | 2372.00 | 0.0026700 |   614  | -3567.00 | 0.0003600 |   406  | Correct
+ 345 |     0.00 | 2372.00 | 0.0026700 |   614  | -3567.00 | 0.0048100 |   211  | Correct
+ 345 |     0.00 | 2372.00 | 0.0026700 |   614  | -3567.00 | 0.0048100 |   409  | Correct
+ 345 |     0.00 | 2372.00 | 0.0026700 |   614  | -6534.00 | 0.0005400 |   233  | Correct
+ 345 |     0.00 | 2372.00 | 0.0026700 |   614  | -6534.00 | 0.0005400 |   389  | Correct
+ 345 |     0.00 | 2372.00 | 0.0026700 |   614  | -6534.00 | 0.0049200 |   215  | Correct
+ 345 |     0.00 | 2372.00 | 0.0026700 |   614  | -6534.00 | 0.0049200 |   406  | Correct
+ 345 |     0.00 | 2372.00 | 0.0056700 |   597  | -3567.00 | 0.0002100 |   220  | Correct
+ 345 |     0.00 | 2372.00 | 0.0056700 |   597  | -3567.00 | 0.0002100 |   382  | Correct
+ 345 |     0.00 | 2372.00 | 0.0056700 |   597  | -3567.00 | 0.0047800 |   205  | Correct
+ 345 |     0.00 | 2372.00 | 0.0056700 |   597  | -3567.00 | 0.0047800 |   374  | Correct
+ 345 |     0.00 | 2372.00 | 0.0056700 |   597  | -6534.00 | 0.0009100 |   206  | Correct
+ 345 |     0.00 | 2372.00 | 0.0056700 |   597  | -6534.00 | 0.0009100 |   405  | Correct
+ 345 |     0.00 | 2372.00 | 0.0056700 |   597  | -6534.00 | 0.0042000 |   217  | Correct
+ 345 |     0.00 | 2372.00 | 0.0056700 |   597  | -6534.00 | 0.0042000 |   381  | Correct
+ 345 |     0.00 | 2372.00 | 0.0056700 |   591  | -3567.00 | 0.0001300 |   205  | Correct
+ 345 |     0.00 | 2372.00 | 0.0056700 |   591  | -3567.00 | 0.0001300 |   392  | Correct
+ 345 |     0.00 | 2372.00 | 0.0056700 |   591  | -3567.00 | 0.0048400 |   219  | Correct
+ 345 |     0.00 | 2372.00 | 0.0056700 |   591  | -3567.00 | 0.0048400 |   397  | Correct
+ 345 |     0.00 | 2372.00 | 0.0056700 |   591  | -6534.00 | 0.0002900 |   211  | Correct
+ 345 |     0.00 | 2372.00 | 0.0056700 |   591  | -6534.00 | 0.0002900 |   371  | Correct
+ 345 |     0.00 | 2372.00 | 0.0056700 |   591  | -6534.00 | 0.0044900 |   204  | Correct
+ 345 |     0.00 | 2372.00 | 0.0056700 |   591  | -6534.00 | 0.0044900 |   378  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0005400 |   229  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0005400 |   396  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0040500 |   230  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0026700 |   597  | -3567.00 | 0.0040500 |   376  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0005300 |   213  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0005300 |   387  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0043700 |   212  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0026700 |   597  | -6534.00 | 0.0043700 |   381  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0026700 |   604  | -3567.00 | 0.0009600 |   204  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0026700 |   604  | -3567.00 | 0.0009600 |   392  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0026700 |   604  | -3567.00 | 0.0045100 |   226  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0026700 |   604  | -3567.00 | 0.0045100 |   374  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0026700 |   604  | -6534.00 | 0.0003800 |   228  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0026700 |   604  | -6534.00 | 0.0003800 |   374  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0026700 |   604  | -6534.00 | 0.0043800 |   215  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0026700 |   604  | -6534.00 | 0.0043800 |   383  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0005800 |   211  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0005800 |   407  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0043600 |   215  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0056700 |   597  | -3567.00 | 0.0043600 |   409  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0003100 |   232  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0003100 |   401  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0043100 |   216  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0056700 |   597  | -6534.00 | 0.0043100 |   405  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0056700 |   610  | -3567.00 | 0.0006300 |   205  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0056700 |   610  | -3567.00 | 0.0006300 |   390  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0056700 |   610  | -3567.00 | 0.0041300 |   227  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0056700 |   610  | -3567.00 | 0.0041300 |   382  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0056700 |   610  | -6534.00 | 0.0009900 |   208  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0056700 |   610  | -6534.00 | 0.0009900 |   402  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0056700 |   610  | -6534.00 | 0.0042200 |   208  | Correct
+ 345 | 12406.86 | 1234.00 | 0.0056700 |   610  | -6534.00 | 0.0042200 |   371  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0026700 |   597  | -3567.00 | 0.0004500 |   210  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0026700 |   597  | -3567.00 | 0.0004500 |   388  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0026700 |   597  | -3567.00 | 0.0041200 |   218  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0026700 |   597  | -3567.00 | 0.0041200 |   375  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0026700 |   597  | -6534.00 | 0.0007300 |   212  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0026700 |   597  | -6534.00 | 0.0007300 |   404  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0026700 |   597  | -6534.00 | 0.0048000 |   225  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0026700 |   597  | -6534.00 | 0.0048000 |   381  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0026700 |   591  | -3567.00 | 0.0003800 |   230  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0026700 |   591  | -3567.00 | 0.0003800 |   377  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0026700 |   591  | -3567.00 | 0.0044700 |   228  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0026700 |   591  | -3567.00 | 0.0044700 |   372  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0026700 |   591  | -6534.00 | 0.0004600 |   208  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0026700 |   591  | -6534.00 | 0.0004600 |   406  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0026700 |   591  | -6534.00 | 0.0040500 |   229  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0026700 |   591  | -6534.00 | 0.0040500 |   383  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0056700 |   597  | -3567.00 | 0.0007000 |   233  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0056700 |   597  | -3567.00 | 0.0007000 |   376  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0056700 |   597  | -3567.00 | 0.0042000 |   206  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0056700 |   597  | -3567.00 | 0.0042000 |   402  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0056700 |   597  | -6534.00 | 0.0005000 |   221  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0056700 |   597  | -6534.00 | 0.0005000 |   381  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0056700 |   597  | -6534.00 | 0.0043500 |   229  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0056700 |   597  | -6534.00 | 0.0043500 |   390  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0056700 |   613  | -3567.00 | 0.0009800 |   219  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0056700 |   613  | -3567.00 | 0.0009800 |   398  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0056700 |   613  | -3567.00 | 0.0044300 |   204  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0056700 |   613  | -3567.00 | 0.0044300 |   381  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0056700 |   613  | -6534.00 | 0.0008000 |   210  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0056700 |   613  | -6534.00 | 0.0008000 |   379  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0056700 |   613  | -6534.00 | 0.0049700 |   232  | Correct
+ 345 | 12406.86 | 3235.00 | 0.0056700 |   613  | -6534.00 | 0.0049700 |   383  | Correct
 
-Overall Grade: F
+Overall Grade: A
