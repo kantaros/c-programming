@@ -16,15 +16,60 @@ int max (int a, int b) {
 }
 
 //Declare your rectangle structure here!
-
+typedef struct {
+  int x;
+  int y;
+  int width;
+  int height;
+} rectangle;
 
 rectangle canonicalize(rectangle r) {
   //WRITE THIS FUNCTION
+  if (r.width < 0){
+    r.x = r.x - r.width;
+    r.width = - r.width;
+  }
+  if (r.height < 0){
+    r.y = r.y - r.height;
+    r.height = - r.height;
+  }
   return r;
 }
+
+int IntersExists(rectangle r1, rectangle r2) {
+  r1 = canonicalize(r1);
+  r2 = canonicalize(r2);
+
+  if ((((r1.x <= r2.x + r2.width) && (r1.x + r1.width >= r2.x + r2.width)) ||
+       ((r2.x <= r1.x + r1.width) && (r2.x + r2.width >= r1.x + r1.width))) &&
+      (((r1.y <= r2.y + r2.height) && (r1.y + r1.height >= r2.y + r2.height)) ||
+       ((r2.y <= r1.y + r1.height) && (r2.y + r2.height >= r1.y + r1.height)))) {
+    return 1;
+  } else {
+    return 0;
+  }
+}
+
 rectangle intersection(rectangle r1, rectangle r2) {
   //WRITE THIS FUNCTION
-  return r1;
+  rectangle result;
+
+  r1 = canonicalize(r1);
+  r2 = canonicalize(r2);
+
+  result.x = max(r1.x, r2.x);
+  result.y = max(r1.y, r2.y);
+
+  if (IntersExists(r1, r2)) {
+   
+    result.width = abs(max(r1.x, r2.x) - min(r1.x + r1.width, r2.x + r2.width));
+    result.height = abs(max(r1.y, r2.y) - min(r1.y + r1.height, r2.y + r2.height));
+  } else {
+    result.width = 0;
+    result.height = 0;
+  }
+
+  return result;
 }
 
 //You should not need to modify any code below this line
